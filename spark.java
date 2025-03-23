@@ -8,4 +8,7 @@ public class spark{
     public void print2(){
         System.out.println("Hello World");
     }
+    public void customNotify(){
+        System.out.println("Hello World");
+    }
 }
